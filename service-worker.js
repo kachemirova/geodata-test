@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/geodata-test/precache-manifest.4ee041dbda5f1d82189c8fed3c600452.js"
+  "/geodata-test/precache-manifest.7549aae601cccc631be8b0434d8944ab.js"
 );
 
 self.addEventListener('message', (event) => {
