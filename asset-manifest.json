@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/geodata-test/static/css/main.4979cf63.chunk.css",
+    "main.js": "/geodata-test/static/js/main.866aeef8.chunk.js",
+    "main.js.map": "/geodata-test/static/js/main.866aeef8.chunk.js.map",
+    "runtime-main.js": "/geodata-test/static/js/runtime-main.4ee812b5.js",
+    "runtime-main.js.map": "/geodata-test/static/js/runtime-main.4ee812b5.js.map",
+    "static/js/2.cb90b41a.chunk.js": "/geodata-test/static/js/2.cb90b41a.chunk.js",
+    "static/js/2.cb90b41a.chunk.js.map": "/geodata-test/static/js/2.cb90b41a.chunk.js.map",
+    "index.html": "/geodata-test/index.html",
+    "precache-manifest.4ee041dbda5f1d82189c8fed3c600452.js": "/geodata-test/precache-manifest.4ee041dbda5f1d82189c8fed3c600452.js",
+    "service-worker.js": "/geodata-test/service-worker.js",
+    "static/css/main.4979cf63.chunk.css.map": "/geodata-test/static/css/main.4979cf63.chunk.css.map",
+    "static/js/2.cb90b41a.chunk.js.LICENSE.txt": "/geodata-test/static/js/2.cb90b41a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4ee812b5.js",
+    "static/js/2.cb90b41a.chunk.js",
+    "static/css/main.4979cf63.chunk.css",
+    "static/js/main.866aeef8.chunk.js"
+  ]
+}
